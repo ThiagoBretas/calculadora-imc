@@ -1,0 +1,11 @@
+{
+  "name": "calculadora-imc",
+  "version": "1.0.0",
+  "description": "Primeiro projeto independente, uma calculadora de IMC",
+  "main": "calculadoraIMC.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago S Bretas",
+  "license": "ISC"
+}
